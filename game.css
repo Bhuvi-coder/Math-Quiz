@@ -1,11 +1,11 @@
 body
 {
-	background: #ce4a4a;
+	background: #ed91f1;
 }
 
 	.login_div1 , .login_div2
 	{
-		background: white;
+		background: rgb(238, 255, 127);
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
@@ -33,4 +33,11 @@ border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
+}
+
+#gogo
+{
+	font-family: cursive;
+	background-color: rgb(220, 220, 103);
+	color: rgb(0, 225, 255);
 }
